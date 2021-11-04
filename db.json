@@ -1,51 +1,36 @@
-[
-  {
-    "_id": "6183b59c61328c993c43b04f",
-    "isActive": false,
-    "age": 25,
-    "name": "Delacruz Guzman",
-    "email": "delacruzguzman@quizmo.com"
-  },
-  {
-    "_id": "6183b59c1adf3397e5414459",
-    "isActive": false,
-    "age": 33,
-    "name": "Walker Edwards",
-    "email": "walkeredwards@quizmo.com"
-  },
-  {
-    "_id": "6183b59ca04bcfff5cc46917",
-    "isActive": false,
-    "age": 33,
-    "name": "Paulette Reilly",
-    "email": "paulettereilly@quizmo.com"
-  },
-  {
-    "_id": "6183b59c2469b9fb550ed1ec",
-    "isActive": true,
-    "age": 40,
-    "name": "Collier Mason",
-    "email": "colliermason@quizmo.com"
-  },
-  {
-    "_id": "6183b59ca84e55c789506c51",
-    "isActive": false,
-    "age": 39,
-    "name": "Bishop Potter",
-    "email": "bishoppotter@quizmo.com"
-  },
-  {
-    "_id": "6183b59ca50b96474676d9a2",
-    "isActive": false,
-    "age": 39,
-    "name": "Patrick Hunter",
-    "email": "patrickhunter@quizmo.com"
-  },
-  {
-    "_id": "6183b59ce36b7a056cd9d22a",
-    "isActive": true,
-    "age": 25,
-    "name": "Torres Chambers",
-    "email": "torreschambers@quizmo.com"
-  }
-]
+
+{
+  "_id": "6183b658d8c29bc429924e62",
+  "isActive": false,
+  "age": 37,
+  "name": "Casey Frazier",
+  "email": "caseyfrazier@sealoud.com"
+},
+{
+  "_id": "6183b658d1fa7d1b03f24b01",
+  "isActive": true,
+  "age": 40,
+  "name": "Carney Wheeler",
+  "email": "carneywheeler@sealoud.com"
+},
+{
+  "_id": "6183b658b3bdda8eefc7a002",
+  "isActive": true,
+  "age": 39,
+  "name": "Vega Hurst",
+  "email": "vegahurst@sealoud.com"
+},
+{
+  "_id": "6183b65810e9e6164a0858ed",
+  "isActive": false,
+  "age": 28,
+  "name": "Blanchard Castro",
+  "email": "blanchardcastro@sealoud.com"
+},
+{
+  "_id": "6183b65844f21a23daaba7d2",
+  "isActive": true,
+  "age": 28,
+  "name": "Spears Hess",
+  "email": "spearshess@sealoud.com"
+}
