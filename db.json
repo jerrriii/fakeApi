@@ -1,36 +1,30 @@
-
-{
-  "_id": "6183b658d8c29bc429924e62",
-  "isActive": false,
-  "age": 37,
-  "name": "Casey Frazier",
-  "email": "caseyfrazier@sealoud.com"
-},
-{
-  "_id": "6183b658d1fa7d1b03f24b01",
-  "isActive": true,
-  "age": 40,
-  "name": "Carney Wheeler",
-  "email": "carneywheeler@sealoud.com"
-},
-{
-  "_id": "6183b658b3bdda8eefc7a002",
-  "isActive": true,
-  "age": 39,
-  "name": "Vega Hurst",
-  "email": "vegahurst@sealoud.com"
-},
-{
-  "_id": "6183b65810e9e6164a0858ed",
-  "isActive": false,
-  "age": 28,
-  "name": "Blanchard Castro",
-  "email": "blanchardcastro@sealoud.com"
-},
-{
-  "_id": "6183b65844f21a23daaba7d2",
-  "isActive": true,
-  "age": 28,
-  "name": "Spears Hess",
-  "email": "spearshess@sealoud.com"
-}
+[
+  {
+    "_id": "6183c915b42e14ae5c2f3407",
+    "isActive": true,
+    "age": 20,
+    "name": "Fitzpatrick Bryan",
+    "email": "fitzpatrickbryan@puria.com"
+  },
+  {
+    "_id": "6183c91552cbfbfb07bc7052",
+    "isActive": false,
+    "age": 31,
+    "name": "Judith Herring",
+    "email": "judithherring@puria.com"
+  },
+  {
+    "_id": "6183c9157c3d32cb68ba302b",
+    "isActive": true,
+    "age": 22,
+    "name": "Annette Ford",
+    "email": "annetteford@puria.com"
+  },
+  {
+    "_id": "6183c9159da89a029eeab869",
+    "isActive": false,
+    "age": 34,
+    "name": "Petersen Franco",
+    "email": "petersenfranco@puria.com"
+  }
+]
